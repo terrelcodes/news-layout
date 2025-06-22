@@ -1,0 +1,14 @@
+{
+  "name": "bbc-news-solo-project",
+  "description": "https://scrimba.com/learn-css-grid-c02k/~0g",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}

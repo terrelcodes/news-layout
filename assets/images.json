@@ -1,0 +1,116 @@
+[
+  {
+    "src": "cyclists.jpg",
+    "filesize": 314678,
+    "width": 1509,
+    "height": 849,
+    "aspect_ratio": 1.777385,
+    "webp": {
+      "src": "cyclists.webp",
+      "width": 720,
+      "height": 405,
+      "filesize": 56750
+    },
+    "thumbnail": {
+      "src": "cyclists-thumb.webp",
+      "width": 200,
+      "height": 112,
+      "filesize": 8820
+    }
+  },
+  {
+    "src": "eggs.jpg",
+    "filesize": 1170209,
+    "width": 4272,
+    "height": 2403,
+    "aspect_ratio": 1.777778,
+    "webp": {
+      "src": "eggs.webp",
+      "width": 720,
+      "height": 405,
+      "filesize": 23192
+    },
+    "thumbnail": {
+      "src": "eggs-thumb.webp",
+      "width": 200,
+      "height": 112,
+      "filesize": 4230
+    }
+  },
+  {
+    "src": "hospital.jpg",
+    "filesize": 2590369,
+    "width": 3788,
+    "height": 2131,
+    "aspect_ratio": 1.777569,
+    "webp": {
+      "src": "hospital.webp",
+      "width": 720,
+      "height": 405,
+      "filesize": 61702
+    },
+    "thumbnail": {
+      "src": "hospital-thumb.webp",
+      "width": 200,
+      "height": 112,
+      "filesize": 7000
+    }
+  },
+  {
+    "src": "police.jpg",
+    "filesize": 349594,
+    "width": 1740,
+    "height": 979,
+    "aspect_ratio": 1.777324,
+    "webp": {
+      "src": "police.webp",
+      "width": 720,
+      "height": 405,
+      "filesize": 39174
+    },
+    "thumbnail": {
+      "src": "police-thumb.webp",
+      "width": 200,
+      "height": 112,
+      "filesize": 6676
+    }
+  },
+  {
+    "src": "rockets.jpg",
+    "filesize": 143425,
+    "width": 1740,
+    "height": 979,
+    "aspect_ratio": 1.777324,
+    "webp": {
+      "src": "rockets.webp",
+      "width": 720,
+      "height": 405,
+      "filesize": 12748
+    },
+    "thumbnail": {
+      "src": "rockets-thumb.webp",
+      "width": 200,
+      "height": 112,
+      "filesize": 2246
+    }
+  },
+  {
+    "src": "train.jpg",
+    "filesize": 1146451,
+    "width": 4160,
+    "height": 2340,
+    "aspect_ratio": 1.777778,
+    "webp": {
+      "src": "train.webp",
+      "width": 720,
+      "height": 405,
+      "filesize": 28764
+    },
+    "thumbnail": {
+      "src": "train-thumb.webp",
+      "width": 200,
+      "height": 112,
+      "filesize": 4494
+    }
+  }
+]
